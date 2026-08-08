@@ -1,0 +1,3 @@
+ticker,test_period,bh_sharpe,adaptive_sharpe,ew_sharpe,beats_bh,beats_ew,n_days,optimal_k
+SPY,2022-01-01 to 2022-12-31,-0.772,-1.846,-1.603,False,False,251,4
+AAPL,2022-01-01 to 2022-12-31,-0.795,-0.211,-1.153,True,True,251,5

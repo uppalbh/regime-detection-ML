@@ -1,0 +1,3 @@
+ticker,windows,beats_bh,beats_ew,mean_adaptive_sharpe,mean_bh_sharpe,mean_ew_sharpe
+AAPL,1,1,1,-0.211,-0.795,-1.153
+SPY,1,0,0,-1.846,-0.772,-1.603
